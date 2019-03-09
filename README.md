@@ -3,16 +3,16 @@ OBS:. Press SPACEBAR to launch the rocket.
 <br><br>
 Preview Images:
 <br><br>
-![Amostra 01](Amostra01.png)
+![Amostra 1](amostras/amostra01.png)
 <br><br>
-![Amostra 02](Amostra02.png)
+![Amostra 2](amostras/amostra02.png)
 <br><br>
-![Amostra 03](Amostra03.png)
+![Amostra 3](amostras/amostra03.png)
 <br><br>
-![Amostra 04](Amostra04.png)
+![Amostra 4](amostras/amostra04.png)
 <br><br>
-![Amostra 05](Amostra05.png)
+![Amostra 5](amostras/amostra05.png)
 <br><br>
-![Amostra 06](Amostra06.png)
+![Amostra 6](amostras/amostra06.png)
 <br><br>
-![Amostra 07](Amostra07.png)
+![Amostra 7](amostras/amostra07.png)
